@@ -204,7 +204,3 @@ car_ID,symboling,CarName,fueltype,aspiration,doornumber,carbody,drivewheel,engin
 203,-1,volvo 244dl,gas,std,four,sedan,rwd,front,109.1,188.8,68.9,55.5,3012,ohcv,six,173,mpfi,3.58,2.87,8.8,134,5500,18,23,21485
 204,-1,volvo 246,diesel,turbo,four,sedan,rwd,front,109.1,188.8,68.9,55.5,3217,ohc,six,145,idi,3.01,3.4,23,106,4800,26,27,22470
 205,-1,volvo 264gl,gas,turbo,four,sedan,rwd,front,109.1,188.8,68.9,55.5,3062,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,19,25,22625
-45,1,isuzu D-Max ,gas,std,two,sedan,fwd,front,94.5,155.9,63.6,52,1874,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,4516.5
-46,0,isuzu D-Max V-Cross,gas,std,four,sedan,fwd,front,94.5,155.9,63.6,52,1909,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,4516.5
-45,1,isuzu D-Max ,gas,std,two,sedan,fwd,front,94.5,155.9,63.6,52,1874,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,4516.5
-46,0,isuzu D-Max V-Cross,gas,std,four,sedan,fwd,front,94.5,155.9,63.6,52,1909,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,4506.5
